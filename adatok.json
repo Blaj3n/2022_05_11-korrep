@@ -1,0 +1,24 @@
+{
+    "pillangok":[
+        {
+            "fajta":"Éjjeli lepke",
+            "szin":"fekete"
+        },
+        {
+            "fajta":"sárga citromlepke",
+            "szin":"sárga"
+        },
+        {
+            "fajta":"Pápaszemes boszorkánylepke",
+            "szin":"barna, színes"
+        },
+        {
+            "fajta":"Sakktáblalepke",
+            "szin":"fekete-fehér kockás"
+        },
+        {
+            "fajta":"Fecskefarkú lepke",
+            "szin":"fehér-fekete"
+        }
+    ]
+}
